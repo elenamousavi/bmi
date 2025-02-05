@@ -1,0 +1,1 @@
+Name : elena, Age : 34, Height : 2.45, Weight : 34.0, BMI : 5.66
